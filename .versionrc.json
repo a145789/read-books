@@ -1,5 +1,5 @@
 {
-  "header": "# Changelog /n",
+  "header": "# Changelog \n",
   "types": [
     { "type": "feat", "section": "新增功能" },
     { "type": "fix", "section": "Bug 修复" },

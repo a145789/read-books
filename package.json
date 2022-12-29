@@ -1,6 +1,6 @@
 {
   "name": "read-books",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "taze": "taze -r",
     "prepare": "husky install",
