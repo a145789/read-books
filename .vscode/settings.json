@@ -2,7 +2,7 @@
   "editor.formatOnSave": true,
   "npm.packageManager": "pnpm",
   "editor.codeActionsOnSave": {
-    "source.fixAll.pretter": true
+    "source.fixAll.eslint": true
   },
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -16,7 +16,5 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": [
-    "esbuild"
-  ]
+  "cSpell.words": ["esbuild"]
 }
