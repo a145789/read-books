@@ -2,7 +2,7 @@
   "name": "read-books",
   "version": "0.0.5",
   "scripts": {
-    "taze": "taze -r",
+    "taze": "taze -r -w",
     "prepare": "husky install",
     "major": "standard-version -a -r major",
     "minor": "standard-version -a -r minor",
@@ -12,11 +12,11 @@
   "author": "a145789",
   "license": "ISC",
   "devDependencies": {
-    "taze": "^0.8.5",
-    "@commitlint/cli": "^17.0.3",
-    "@commitlint/config-conventional": "^17.0.3",
-    "husky": "^8.0.1",
-    "standard-version": "^9.5.0"
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
+    "husky": "^8.0.2",
+    "standard-version": "^9.5.0",
+    "taze": "^0.8.5"
   },
   "standard-version": {
     "scripts": {
